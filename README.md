@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Software Engineer
-- 👀 I’m interested currently working on fullstack development projects
+- 👀 I’m currently working on fullstack development projects
 - 🌱 I’m currently learning new tech stack and wanted to go deep into the Artificial intelligence part
 - 💞️ I’m looking to collaborate with the top companies where i could solve the real world problem with my skillset
 - 📫 How to reach me : sahil306624@gmail.com
